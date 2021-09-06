@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'DSZierschrift';
+    src: url('./fonts/DSZierschrift.ttf');
+}
+
+@font-face {
+    font-family: 'Gentium';
+    src: url('./fonts/GenBkBasR.ttf');
+}
+
+@font-face {
+    font-family: 'GentiumBI';
+    src: url('./fonts/GenBkBasBI.ttf');
+}
